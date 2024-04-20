@@ -59,4 +59,25 @@ Conclusion
 
 In conclusion, the implemented credit card fraud detection system demonstrates the application of machine learning techniques to address real-world challenges such as class imbalance. By preprocessing the data, training a logistic regression model, and evaluating its performance, the system provides a reliable method for detecting fraudulent transactions. The visualizations aid in understanding the dataset distribution and model evaluation metrics. Further improvements and optimizations can be explored to enhance the system's accuracy and efficiency.
 
+Confusion Matrix:
+[[56248   616]
+ [    9    89]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99     56864
+           1       0.13      0.91      0.22        98
+
+    accuracy                           0.99     56962
+   macro avg       0.56      0.95      0.61     56962
+weighted avg       1.00      0.99      0.99     56962
+
+
+![image](https://github.com/REPANAJYOTHIPRAKASH629/CODETECH-IT-SOLUTIONS/assets/98946604/8e03331d-fbed-406a-901b-81cc90b93251)
+
+
+![image](https://github.com/REPANAJYOTHIPRAKASH629/CODETECH-IT-SOLUTIONS/assets/98946604/2e9aea67-fd7d-438f-99f4-e4c70a9b3fee)
+
+
+![image](https://github.com/REPANAJYOTHIPRAKASH629/CODETECH-IT-SOLUTIONS/assets/98946604/87f86c3c-476b-46e8-8c6f-d1bd28c19e7a)
 
